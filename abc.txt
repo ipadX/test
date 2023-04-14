@@ -1,0 +1,2 @@
+echo "love to travel"
+echo "love solo trips"
